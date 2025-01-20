@@ -27,8 +27,3 @@ I'm a web developer with 3 years of experience, specializing in backend developm
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-
-# 📊 GitHub Stats:
-##![Mobin Shakeri's Stats](https://github-readme-stats.vercel.app/api?username=mobinsha&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-##![Mobin Shakeri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinsha=vue-dark&show_icons=true&hide_border=false&layout=compact)
