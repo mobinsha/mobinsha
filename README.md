@@ -18,6 +18,7 @@ Node.js, Express, NestJS, REST APIs, backend development, and basic frontend tec
 ⚡ **Fun fact**  
 I enjoy learning new technologies and improving my English while writing code.
 
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mobinsha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -122,9 +123,10 @@ I enjoy learning new technologies and improving my English while writing code.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mobinsha/mobinsha/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/mobinsha/mobinsha/main/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mobinsha/mobinsha/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/mobinsha/mobinsha/main/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/mobinsha/mobinsha/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/mobinsha/mobinsha/main/output/pacman-contribution-graph.svg">
 </picture>
+
