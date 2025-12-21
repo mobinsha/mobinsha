@@ -9,6 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - name: Generate pacman graph
         uses: Platane/snk@v3
         with:
@@ -16,3 +18,8 @@ jobs:
           outputs: |
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update pacman contribution graph"
