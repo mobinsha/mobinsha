@@ -21,15 +21,6 @@ I enjoy learning new technologies and improving my English while writing code.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobinsha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mobinsha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-
-
----
-
-<div align="center">
   <a href="https://www.instagram.com/mobin.skr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="73" height="43" />
   </a>
@@ -120,13 +111,4 @@ I enjoy learning new technologies and improving my English while writing code.
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mobinsha/mobinsha/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mobinsha/mobinsha/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/mobinsha/mobinsha/main/output/pacman-contribution-graph.svg">
-</picture>
 
